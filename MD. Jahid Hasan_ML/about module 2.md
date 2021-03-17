@@ -3,7 +3,7 @@
 
 In this module 2 I have learned about **machine learning model** and **algorithm**. this module is focused on only *two types* of machine learning. They are **Supervised** and **Unsupervised** learning. The supervised and unsupervised learning are also subcategorized further.
 
-The supervised learning originates from the idea that there is a supervisor who trains the algorithm under its supervision. The supervised learning are two types. they are:
+The **supervised learning** originates from the idea that there is a *supervisor* who trains the algorithm under its supervision. The supervised learning are two types. they are:
 1. **Regression**
 2. **Classification**
                                                 
